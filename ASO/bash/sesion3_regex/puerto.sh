@@ -15,4 +15,3 @@ if [[ $puerto =~ $re ]]; then
     fi
 else
     echo "$puerto no es un número"
-fi
